@@ -1,0 +1,133 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "Introduction to Web Development",
+      "thumbnail": "https://via.placeholder.com/320x180?text=Web+Dev",
+      "duration": "15:32",
+      "views": 12500,
+      "uploadDate": "2024-01-15",
+      "channel": "Tech Tutorials",
+      "description": "Learn the basics of web development including HTML, CSS, and JavaScript. Perfect for beginners who want to start their journey in web development.",
+      "likes": 450,
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": 2,
+      "title": "JavaScript Fundamentals Explained",
+      "thumbnail": "https://via.placeholder.com/320x180?text=JavaScript",
+      "duration": "22:18",
+      "views": 18900,
+      "uploadDate": "2024-01-20",
+      "channel": "Code Master",
+      "description": "Deep dive into JavaScript fundamentals. Covering variables, functions, objects, and ES6 features.",
+      "likes": 620,
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+      "id": 3,
+      "title": "CSS Grid Layout Tutorial",
+      "thumbnail": "https://via.placeholder.com/320x180?text=CSS+Grid",
+      "duration": "18:45",
+      "views": 9800,
+      "uploadDate": "2024-02-01",
+      "channel": "Design Pro",
+      "description": "Master CSS Grid layout with practical examples. Learn how to create responsive layouts easily.",
+      "likes": 380,
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+    },
+    {
+      "id": 4,
+      "title": "React Hooks Complete Guide",
+      "thumbnail": "https://via.placeholder.com/320x180?text=React+Hooks",
+      "duration": "35:12",
+      "views": 25600,
+      "uploadDate": "2024-02-10",
+      "channel": "React Academy",
+      "description": "Complete guide to React Hooks. Learn useState, useEffect, useContext, and custom hooks.",
+      "likes": 890,
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+    },
+    {
+      "id": 5,
+      "title": "Node.js Backend Development",
+      "thumbnail": "https://via.placeholder.com/320x180?text=Node.js",
+      "duration": "28:30",
+      "views": 14200,
+      "uploadDate": "2024-02-15",
+      "channel": "Backend Dev",
+      "description": "Build RESTful APIs with Node.js and Express. Learn server-side development from scratch.",
+      "likes": 540,
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+    },
+    {
+      "id": 6,
+      "title": "Python for Data Science",
+      "thumbnail": "https://via.placeholder.com/320x180?text=Python+Data",
+      "duration": "42:15",
+      "views": 32100,
+      "uploadDate": "2024-02-20",
+      "channel": "Data Science Hub",
+      "description": "Introduction to Python for data science. Learn pandas, numpy, and matplotlib.",
+      "likes": 1120,
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+    },
+    {
+      "id": 7,
+      "title": "Vue.js 3 Composition API",
+      "thumbnail": "https://via.placeholder.com/320x180?text=Vue.js+3",
+      "duration": "31:45",
+      "views": 16800,
+      "uploadDate": "2024-03-01",
+      "channel": "Vue Masters",
+      "description": "Learn Vue.js 3 Composition API. Modern approach to building Vue applications.",
+      "likes": 670,
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+    },
+    {
+      "id": 8,
+      "title": "TypeScript Basics",
+      "thumbnail": "https://via.placeholder.com/320x180?text=TypeScript",
+      "duration": "25:20",
+      "views": 11200,
+      "uploadDate": "2024-03-05",
+      "channel": "TypeScript Pro",
+      "description": "Get started with TypeScript. Learn type annotations, interfaces, and generics.",
+      "likes": 490,
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "videoId": 1,
+      "author": "John Doe",
+      "text": "Great tutorial! Very helpful for beginners.",
+      "date": "2024-01-16"
+    },
+    {
+      "id": 2,
+      "videoId": 1,
+      "author": "Jane Smith",
+      "text": "Thanks for the clear explanations!",
+      "date": "2024-01-17"
+    },
+    {
+      "id": 3,
+      "videoId": 2,
+      "author": "Mike Johnson",
+      "text": "This helped me understand closures better.",
+      "date": "2024-01-21"
+    }
+  ],
+  "user": {
+    "id": 1,
+    "name": "Ahmed Abdelhalim",
+    "email": "ahmed@example.com",
+    "avatar": "https://via.placeholder.com/150?text=User",
+    "bio": "Web developer passionate about creating amazing user experiences.",
+    "subscribers": 1250,
+    "uploadedVideos": [1, 3, 5]
+  }
+}
+
