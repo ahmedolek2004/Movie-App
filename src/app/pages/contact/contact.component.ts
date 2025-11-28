@@ -44,8 +44,8 @@ import { FormsModule } from "@angular/forms";
                 </div>
                 <h3 class="text-lg font-semibold text-gray-800 ml-4">Email</h3>
               </div>
-              <p class="text-gray-600">info@movielibrary.com</p>
-              <p class="text-gray-600">support@movielibrary.com</p>
+              <p class="text-gray-600">info&#64;movielibrary.com</p>
+              <p class="text-gray-600">support&#64;movielibrary.com</p>
             </div>
 
             <!-- Phone Card -->
